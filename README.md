@@ -14,7 +14,7 @@ allprojects {
 ```gradle 
 dependencies 
    {
-     implementation 'com.github.ImAndroidDeveloper:Unit-adp:1.0.0'
+     implementation 'com.github.ImAndroidDeveloper:unit-adp:1.0.0'
    }
 ```
 * You need to create layout for 320.480 layout xml.
